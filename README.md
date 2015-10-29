@@ -23,6 +23,7 @@ The ways to SWAG are truly endless. Some of the more common Ways include:
 ###Acquire
 The way to Acquire SWAG is best remembered by "AAA":
 Always Acquire AllTheThings!!
+AKA 0x41414141 <-- what you want ret to be :)
 
 ###Goodies
 Do you like this? If yes, then it is Goodies!
@@ -36,3 +37,5 @@ Common goodies of the SWAG variety include:
   - tote bags
   - and XXL sized T-shirts!!!
 
+###The Question
+Woulf you forkme? I'd forkme :p
