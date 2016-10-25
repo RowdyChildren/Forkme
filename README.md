@@ -1,5 +1,17 @@
 # Forkme
 Here is where we ponder the glory and the grandeur that is
+
+~~~~
+                            
+  mmmm m     m   mm     mmm 
+ #"   "#  #  #   ##   m"   "
+ "#mmm " #"# #  #  #  #   mm
+     "# ## ##"  #mm#  #    #
+ "mmm#" #   #  #    #  "mmm"
+                            
+                            
+~~~~
+
 ##S.W.A.G
 
 What is SWAG?
@@ -39,7 +51,6 @@ Common goodies of the SWAG variety include:
   - microfiber cloths
   - tote bags
   - and XXL sized T-shirts!!!
-
-###The Question
-Would you fork me? I'd fork me.	
-~Null
+  - selfy sticks
+  - bottle openers
+  - job offers
