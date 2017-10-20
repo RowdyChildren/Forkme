@@ -12,7 +12,7 @@ Here is where we ponder the glory and the grandeur that is
                             
 ~~~~
 
-##S.W.A.G
+## S.W.A.G
 
 What is SWAG?
 Simple
@@ -20,11 +20,11 @@ Ways to
 Acquire
 Goodies
 
-###Simple
+### Simple
 To truly exemplify the meaning of SWAG, SWAG by definition must be Simple.
 The function of the SWAG must not exceed more than 2 or 3 purposes and, ideally, has only 1.
 
-###Ways to
+### Ways to
 The ways to SWAG are truly endless. Some of the more common Ways include:
   - Attending a conference
   - Visiting a vendor's table
@@ -35,11 +35,11 @@ The ways to SWAG are truly endless. Some of the more common Ways include:
   - asking for extras
 
 
-###Acquire
+### Acquire
 The way to Acquire SWAG is best remembered by "AAA":
 Always Acquire AllTheThings!!
 
-###Goodies
+### Goodies
 Do you like this? If yes, then it is Goodies!
 Common goodies of the SWAG variety include:
   - keychains
